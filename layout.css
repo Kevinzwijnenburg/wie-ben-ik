@@ -10,9 +10,26 @@ height: 20%;
 top: 18%;
 right: 12%;
 position: absolute;
+color: white;
 }
 
 a:link {
-    color: yellow; 
+    color: yellow;
     background-color: transparent;
     text-decoration: none;
+
+}
+
+
+h1{
+  font-size: 30px;
+}
+
+
+li{
+  font-size: 25px;
+}
+
+P{
+  font-size: 20px;
+}
