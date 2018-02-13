@@ -1,6 +1,5 @@
 body{
     background-image: url("download.jpg");
-    background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
@@ -11,6 +10,7 @@ top: 18%;
 right: 12%;
 position: absolute;
 color: white;
+text-align: left;
 }
 
 a:link {
@@ -23,11 +23,12 @@ a:link {
 
 h1{
   font-size: 30px;
+  text-align: left;
 }
 
 
 li{
-  font-size: 25px;
+  font-size: 20px;
 }
 
 P{
